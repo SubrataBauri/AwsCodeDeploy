@@ -1,3 +1,4 @@
+# not required
 #!/bin/bash
 service nginx stop
 
