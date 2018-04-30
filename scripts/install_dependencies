@@ -1,4 +1,5 @@
 #!/bin/bash
 #yum install -y httpd
 sudo apt-get update
-cp /usr/share/nginx/html/index.html /usr/share/nginx/html/anotherpage.html
+cd /usr/share/nginx/html
+cp anotherpage.html subrata.html
