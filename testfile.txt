@@ -1,1 +1,2 @@
 Random file for testing
+Checking separate .git location
